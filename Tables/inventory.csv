@@ -1,0 +1,4 @@
+inventory_id,product_id,seller_id,stock_quantity,stock_status
+1,2,1,8,In-Stock
+2,3,1,50,In-Stock
+3,4,2,2,In-Stock
